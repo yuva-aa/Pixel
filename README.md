@@ -1,3 +1,5 @@
+https://yuvaa-pixel-task.netlify.app/
+
 Output :
 
 <img width="1470" alt="Screenshot 2023-12-12 at 4 25 52 PM" src="https://github.com/yuva-aa/Pixel/assets/152509708/4b9c3cb9-7b85-4116-8df5-64dff0d15bdb">
